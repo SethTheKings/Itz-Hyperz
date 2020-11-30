@@ -29,11 +29,11 @@
 
 ### GitHub Statistics
 
-<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api?username=Itz-Hyperz&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Hyperz" />
+<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api?username=SethTheKings&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Itz-Hyperz:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethTheKings" />
 
 
-[website]: https://github.com/SethTheKings
+[website]: sethhalsey.me
 [twitter]: https://twitter.com/SethTheKingsYT
 [twitch]: https://twitch.tv/Seth_The_Kings
 [youtube]: https://www.youtube.com/channel/UCR3SrWsSgD4aM79MtjN68jA
