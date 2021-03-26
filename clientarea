@@ -1,0 +1,18 @@
+[html]
+<div class="area">
+							
+			<div class="client">
+				<div class="clienttop">
+					<div class="left">
+						<div class="avatar" style="background-image: url(https://cdn.discordapp.com/avatars/495034678261186610/a_e6b78d94a7437d049cb64b048f52e17a)"></div>
+						<span>Welcome, SethTheKings</span>
+					</div>
+					<div class="right">
+						<form method="POST">
+							<input type="submit" name="logout" value="Logout">
+						</form>
+					</div>
+				</div>
+					<table><tbody><tr class="header"><th class="l">Name of Product</th><th class="c">Price</th><th class="c">Date of purchase</th><th class="r">Download</th></tr></tbody></table>			</div>
+					</div>
+          [html]
