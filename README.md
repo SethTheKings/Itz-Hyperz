@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sethhalsey.me/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://sethhalsey.me/github)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=SethTheKings&label=Views&color=blue&style=plastic)
 
 I'm a MiddleSchool student planing to enter the space feild when I am older 🚀. I am not the best coder but I stil endjoy learning it 💻. I really am fascinated with space travel 🌌. As one day I want to go to mars 🪐. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I am also planning on making a FiveM server soon.
 
@@ -32,8 +32,8 @@ I'm a MiddleSchool student planing to enter the space feild when I am older 🚀
 
 <p align="left">
 <a href="https://github.com/SethTheKings">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SethTheKings&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SethTheKings&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -42,8 +42,7 @@ I'm a MiddleSchool student planing to enter the space feild when I am older 🚀
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: Lenovo Laptop
-- Browser: Google Chrome Browser
+- Browser: Brave
 - Code Editor: VSCode
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCR3SrWsSgD4aM79MtjN68jA), [Discord](sethhalsey.me/discord)
 
